@@ -1,3 +1,3 @@
 # Create an AAD-integrated AKS cluster with Terraform
 
-Sample repository for https://chrisdennig.me/?p=2168
+this terraform script create a hub and spoke architecture in Azure with an AKS cluster
